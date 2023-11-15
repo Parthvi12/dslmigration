@@ -7,6 +7,10 @@
     {
       "id": "Public.Habitasaurus_Habits",
       "isDefault": false
+    },
+    {
+      "id": "Page2-updated",
+      "isDefault": false
     }
   ],
   "viewMode": false,
@@ -19,7 +23,14 @@
   },
   "color": "#FFEBFB",
   "icon": "snowy-weather",
-  "unpublishedCustomJSLibs": [],
+  "unpublishedCustomJSLibs": [
+    {
+      "uidString": "jsonwebtoken_/libraries/jsonwebtoken@8.5.1.js"
+    },
+    {
+      "uidString": "XMLParser_https://cdnjs.cloudflare.com/ajax/libs/fast-xml-parser/4.3.2/fxparser.min.js"
+    }
+  ],
   "publishedCustomJSLibs": [],
   "evaluationVersion": 2,
   "applicationVersion": 2,
